@@ -1,0 +1,9 @@
+{
+  "name": "cat-battle-assets",
+  "private": true,
+  "type": "module",
+  "description": "Dev-only: optimize assets/bullets with sharp (run: npm run optimize:bullets)",
+  "devDependencies": {
+    "sharp": "^0.33.5"
+  }
+}
